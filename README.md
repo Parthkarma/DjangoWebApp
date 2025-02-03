@@ -1,4 +1,3 @@
-Django Web App with Admin Panel
 This is a basic Django web application featuring an admin panel and essential functionalities. The project is designed to demonstrate core Django concepts, including models, views, templates, and database management.
 
 Features 🚀
@@ -40,3 +39,5 @@ Technologies Used 🏗
 Django – Python web framework
 SQLite/PostgreSQL – Database (depending on configuration)
 HTML, CSS, JavaScript – Frontend basics
+Contributing 💡
+Feel free to fork this repository, make improvements, and submit pull requests!
